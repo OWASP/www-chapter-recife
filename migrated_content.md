@@ -9,8 +9,7 @@ region: Latin America
 
 
 ---
-![<File:logo-owasp-chapter-recife.png>](logo-owasp-chapter-recife.png
-"File:logo-owasp-chapter-recife.png")
+![OWASPRECIFE](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)
 
 ## Novidades
 

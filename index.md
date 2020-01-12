@@ -7,48 +7,124 @@ level: 0
 
 region: Latin America
 
-auto-migrated: 1
 
 ---
+![<File:logo-owasp-chapter-recife.png>](logo-owasp-chapter-recife.png
+"File:logo-owasp-chapter-recife.png")
 
+## Novidades
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+**O encontro do primeiro semestre de 2019 será no dia 18/05/2019, das
+13h as 16:30h no auditório da UNINABUCO, Avenida Guararapes, 233, Santo
+Amaro, Recife-PE. O encontro terá palestras e mesa redonda que
+versarão sobre o seguinte tema: FRAUDES CIBERNÉTICAS E A LEI DE
+PROTEÇÃO DE DADOS PESSOAIS.**
 
-{front matter for this file}
+Para maiores detalhes sobre horários e local do encontro, checar o
+calendário de atividades ou entrar em contato
+[@](mailto:revoredo@gmail.com).
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## Equipe OWASP Recife
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Atualmente, o OWASP Recife está sendo conduzido pelos organizadores
+Carlo Marcelo Revoredo da Silva, Anselmo Lacerda Gomes, Thyago de Amorim
+Monteiro e Osmar Carlos da Silva.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Faça parte da nossa [lista de
+discussão](https://groups.google.com/a/owasp.org/forum/#!overview)
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## Sobre o OWASP Recife
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+O OWASP Recife é um dos 7 capítulos brasileiros entre os mais de 200
+Capítulos ativos em todo o mundo. Nosso propósito é esclarecer a
+academia, industria e a sociedade como um todo sobre a importância da
+segurança da informação em nossas vidas. Nosso público-alvo é bem
+diversificado, contudo, o principal objetivo é compartilhar
+conhecimentos sobre a conscientização de riscos, vulnerabilidades,
+desenvolvimento seguro e privacidade. Serão realizados encontros
+semestrais e sem fins lucrativos.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+Para maiores detalhes, acompanhe o calendário de atividades do capítulo.
 
-```
-{info.md}
+## Calendário de atividades
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+[Google
+Calendar](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23FFFFFF&src=trv1sni07u93kq2h7bivqt8chc%40group.calendar.google.com&color=%23AB8B00&ctz=America%2FRecife)
 
-{leaders.md}
+## Sobre o Projeto OWASP
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+Segue uma lista de 10 (alguns de muitos) projetos da comunidade
 
--->
+  - Top 10 2017 <https://www.owasp.org/index.php/Top_10-2017_Top_10>
+  - OWASP Mobile Security Project
+    <https://www.owasp.org/index.php/OWASP_Mobile_Security_Project>
+  - OWASP Internet of Things Project
+    <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
+  - OWASP DevSecOps Studio Project
+    <https://www.owasp.org/index.php/OWASP_DevSecOps_Studio_Project>
+  - OWASP Cloud Security Project
+    <https://www.owasp.org/index.php/OWASP_Cloud_Security_Project>
+  - OWASP Enterprise Security API
+    <https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API>
+  - OWASP Broken Web Applications Project
+    <https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project>
+  - Testing Guide Introduction
+    <https://www.owasp.org/index.php/Testing_Guide_Introduction>
+  - OWASP Secure Software Development Lifecycle Project
+    <https://www.owasp.org/index.php/OWASP_Secure_Software_Development_Lifecycle_Project>
+  - OWASP Risk Rating Management
+    <https://www.owasp.org/index.php/OWASP_Risk_Rating_Management>
+
+## Sugestão de Vídeos
+
+  - *' [OWASP AppSec Tutorial Project
+    Videos](https://www.owasp.org/index.php/OWASP_Appsec_Tutorial_Series):*'
+
+<!-- end list -->
+
+  - *' [Introduction to Application
+    Security](http://www.youtube.com/watch?v=CDbWvEwBBxo)*'
+
+<!-- end list -->
+
+  - *' [Injection Attacks](http://www.youtube.com/watch?v=pypTYPaU7mM)*'
+
+<!-- end list -->
+
+  - *' [Cross Site
+    Scripting](http://www.youtube.com/watch?v=_Z9RQSnf8-g)*'
+
+## Links
+
+  - *' [Looking for a
+    job?](https://www.owasp.org/index.php/OWASP_Jobs)*'
+
+<!-- end list -->
+
+  - *' [OWASP Books, a must
+    read\!](http://www.lulu.com/spotlight/owasp)*'
+
+<!-- end list -->
+
+  - *' [Wanna be a
+    member?](https://www.owasp.org/index.php/Membership)*'
+
+<!-- end list -->
+
+  - *' [Cheat Sheet Series, grab
+    yours\!](https://www.owasp.org/index.php/Cheat_Sheets)*'
+
+## About
+
+  - ''' [Video of Recife](http://youtu.be/gDIEQ3u4CRw) '''
+
+<!-- end list -->
+
+  - *' [More info about
+    Recife](https://secure.wikimedia.org/wikipedia/en/wiki/Recife)*'
+
+<!-- end list -->
+
+  - *' [Where is it?\!](http://g.co/maps/p47pd)*'
+
+[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")

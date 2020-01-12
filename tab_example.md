@@ -1,6 +1,6 @@
 ---
 title: Agenda
-layout:  null
+layout:  
 tab: true
 order: 1
 tags: example-tag

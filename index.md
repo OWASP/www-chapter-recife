@@ -1,11 +1,11 @@
 ---
 
-```layout: col-sidebar
-```title: OWASP Recife
-```tags: example-tag
-```level: 0
+layout: col-sidebar
+title: OWASP Recife
+tags: example-tag
+level: 0
 
-```region: Latin America
+region: Latin America
 
 ---
 ![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)

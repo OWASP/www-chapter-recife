@@ -8,7 +8,6 @@ level: 0
 region: Latin America
 
 ---
-![OWASPRECIFE](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)
 
 ## Novidades
 

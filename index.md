@@ -1,13 +1,14 @@
 ---
 
 layout: col-sidebar
-title: ![OWASPRECIFE](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)
+title: OWASP Recife
 tags: example-tag
 level: 0
 
 region: Latin America
 
 ---
+![OWASPRECIFE](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)
 
 ## Novidades
 

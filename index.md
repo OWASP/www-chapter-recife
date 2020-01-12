@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Recife
-tags: example-tag
+tags: agenda-tag
 level: 0
 
 region: Latin America

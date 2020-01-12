@@ -1,10 +1,10 @@
-```---
-```title: Example
-```layout:  null
-```tab: true
-```order: 1
-```tags: example-tag
-```---
+---
+title: Example
+layout:  null
+tab: true
+order: 1
+tags: example-tag
+---
 
 ## Calendário de atividades
 

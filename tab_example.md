@@ -1,9 +1,9 @@
 ---
-title: Example
+title: Agenda
 layout: null
 tab: true
 order: 1
-tags: example-tag
+tags: agenda-tag
 ---
 
 ## Agenda de atividades

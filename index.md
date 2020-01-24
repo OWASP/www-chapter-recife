@@ -5,7 +5,7 @@ title: OWASP Recife
 tags: agenda-tag
 level: 0
 
-region: Latin America
+region: South America
 
 ---
 ![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)

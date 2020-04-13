@@ -12,7 +12,7 @@ region: South America
 
 ## Novidades
 
-**Diante o panorama atual da pandemia do novo covid-19, a programação presencial foi prorrogada. Contudo, acompanhe nossos canais de comunicação para ser notificado em primeira mão sobre nossas atividades na modalidade webinar.**
+**Diante o panorama atual da pandemia do novo covid-19, a programação presencial foi prorrogada. Contudo, participe do nosso grupo no Whatsapp (https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza) para saber das nossas atividades na modalidade webinar.**
 
 Para maiores detalhes sobre horários e local do encontro, checar o
 calendário de atividades ou entrar em contato

@@ -24,9 +24,7 @@ calendário de atividades ou entrar em contato
 
 ## Equipe OWASP Recife
 
-Atualmente, o OWASP Recife está sendo conduzido pelos organizadores
-Carlo Marcelo Revoredo da Silva, Anselmo Lacerda Gomes, Thyago de Amorim
-Monteiro e Osmar Carlos da Silva.
+Atualmente, o OWASP Recife é liderado por Marcelo Revoredo e Fábio Iraktan. Também é auxiliado por colaboradores como: Anselmo Lacerda, Thyago Monteiro e Osmar Silva.
 
 Faça parte da nossa [lista de
 discussão](https://groups.google.com/a/owasp.org/forum/#!overview)

@@ -12,11 +12,7 @@ region: South America
 
 ## Novidades
 
-**O encontro do primeiro semestre de 2019 será no dia 18/05/2019, das
-13h as 16:30h no auditório da UNINABUCO, Avenida Guararapes, 233, Santo
-Amaro, Recife-PE. O encontro terá palestras e mesa redonda que
-versarão sobre o seguinte tema: FRAUDES CIBERNÉTICAS E A LEI DE
-PROTEÇÃO DE DADOS PESSOAIS.**
+**Diante o panorama atual da pandemia do novo covid-19, a programação presencial foi prorrogada. Contudo, acompanhe nossos canais de comunicação para ser notificado em primeira mão sobre nossas atividades na modalidade webinar.**
 
 Para maiores detalhes sobre horários e local do encontro, checar o
 calendário de atividades ou entrar em contato

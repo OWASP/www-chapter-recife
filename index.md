@@ -12,7 +12,7 @@ region: South America
 
 ## Novidades
 
-**Diante o panorama atual da pandemia do novo covid-19, a programação presencial foi prorrogada. Contudo, participe do nosso grupo no [Whatsapp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza) para saber das nossas atividades na modalidade webinar.**
+**Diante o panorama atual da pandemia do novo coronavírus (covid-19), a programação presencial foi prorrogada. Contudo, participe do nosso grupo no [Whatsapp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza) para saber das nossas atividades na modalidade webinar.**
 
 Acompanhe também nosso **[Instagram](https://www.instagram.com/owasprecife/)**
 

@@ -18,7 +18,7 @@ Acompanhe também nosso **[Instagram](https://www.instagram.com/owasprecife/)**
 
 ## Equipe OWASP Recife
 
-Atualmente, o OWASP Recife é liderado por Marcelo Revoredo e Fábio Iraktan. Também é auxiliado por colaboradores como: Anselmo Lacerda, Thyago Monteiro e Osmar Silva.
+Atualmente, o OWASP Recife é liderado por Marcelo Revoredo, Fábio Iraktan, Thyago Monteiro, Osmar Silva e Isaque Lopes.
 
 Faça parte da nossa [lista de
 discussão](https://groups.google.com/a/owasp.org/forum/#!overview)

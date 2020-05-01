@@ -9,8 +9,17 @@ region: South America
 
 ---
 ![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)
+## Novidades (01/05/2020)
+Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades, fiquem ligados em nossas mídias sociais.
 
-## Novidades
+Apresentações: 
+![- OWASP e OWASP Recife](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/logo-owasp-chapter-recife.png?raw=true)
+- A importância da OWASP no Mundo Corporativo
+- Segurança, Privacidade e OWASP Top 10
+- Cuidados com as ferramentas para trabalho em home office
+- Panorama sobre as fraudes digitais durante a COVID-19
+
+## Novidades (22/04/2020)
 
 **Diante o panorama atual da pandemia do novo coronavírus (covid-19), a programação presencial foi prorrogada. Contudo, participe do nosso grupo no [Whatsapp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza) para saber das nossas atividades na modalidade webinar.**
 

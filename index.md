@@ -14,7 +14,7 @@ Gostariamos de agradecer a participação de todos na nossa primeira live, em br
 
 Apresentações: 
 
-![- OWASP e OWASP Recife](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/cmrs-owasp-recife.pdf?raw=true)
+[- OWASP e OWASP Recife](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/cmrs-owasp-recife.pdf?raw=true)
 - A importância da OWASP no Mundo Corporativo
 - Segurança, Privacidade e OWASP Top 10
 - Cuidados com as ferramentas para trabalho em home office

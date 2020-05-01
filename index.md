@@ -10,7 +10,12 @@ region: South America
 ---
 ![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)
 ## Novidades (01/05/2020)
-Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades, fiquem ligados em nossas mídias sociais.
+Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades, acompanhem nossas redes sociais.
+
+[Whatsapp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)
+
+[Instagram](https://www.instagram.com/owasprecife/)
+
 
 [Link da Live no YouTube:](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be)
 

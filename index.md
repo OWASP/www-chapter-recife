@@ -15,10 +15,10 @@ Gostariamos de agradecer a participação de todos na nossa primeira live, em br
 Apresentações: 
 
 [- OWASP e OWASP Recife](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/cmrs-owasp-recife.pdf?raw=true)
-- A importância da OWASP no Mundo Corporativo
-- Segurança, Privacidade e OWASP Top 10
-- Cuidados com as ferramentas para trabalho em home office
-- Panorama sobre as fraudes digitais durante a COVID-19
+[- A importância da OWASP no Mundo Corporativo](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/fabio.pdf?raw=true)
+[- Segurança, Privacidade e OWASP Top 10](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/isaque.pdf?raw=true)
+[- Cuidados com as ferramentas para trabalho em home office](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/osmar.pdf?raw=true)
+[- Panorama sobre as fraudes digitais durante a COVID-19](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/thyago.pdf?raw=true)
 
 ## Novidades (22/04/2020)
 

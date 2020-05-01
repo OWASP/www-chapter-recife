@@ -12,7 +12,9 @@ region: South America
 ## Novidades (01/05/2020)
 Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades, fiquem ligados em nossas mídias sociais.
 
-Apresentações: 
+[Link da Live no YouTube:](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be)
+
+Slides das apresentações: 
 
 [- OWASP e OWASP Recife](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/cmrs-owasp-recife.pdf?raw=true)
 

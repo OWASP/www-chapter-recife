@@ -29,8 +29,7 @@ Slides das apresentações:
 
 [- Cuidados com as ferramentas para trabalho em home office](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/osmar.pdf?raw=true)
 
-[- Panorama sobre as fraudes digitais durante a COVID-19](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/
-FRAUDES-COVID19.pdf?raw=true)
+[- Panorama sobre as fraudes digitais durante a COVID-19](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/FRAUDES-COVID19.pdf?raw=true)
 
 ## Novidades (22/04/2020)
 

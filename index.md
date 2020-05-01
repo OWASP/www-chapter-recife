@@ -8,12 +8,12 @@ level: 0
 region: South America
 
 ---
-![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/cmrs-owasp-recife.pdf?raw=true)
+![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-recife.png?raw=true)
 ## Novidades (01/05/2020)
 Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades, fiquem ligados em nossas mídias sociais.
 
 Apresentações: 
-![- OWASP e OWASP Recife](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/logo-owasp-chapter-recife.png?raw=true)
+![- OWASP e OWASP Recife](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/cmrs-owasp-recife.pdf?raw=true)
 - A importância da OWASP no Mundo Corporativo
 - Segurança, Privacidade e OWASP Top 10
 - Cuidados com as ferramentas para trabalho em home office

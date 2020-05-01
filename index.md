@@ -8,7 +8,7 @@ level: 0
 region: South America
 
 ---
-![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-recife.png?raw=true)
+![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)
 ## Novidades (01/05/2020)
 Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades, fiquem ligados em nossas mídias sociais.
 

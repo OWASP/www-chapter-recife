@@ -12,9 +12,9 @@ region: South America
 ## Novidades (01/05/2020)
 Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades, acompanhem nossas redes sociais.
 
-[Whatsapp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)
+[Grupo no Whatsapp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)
 
-[Instagram](https://www.instagram.com/owasprecife/)
+[Perfil no Instagram](https://www.instagram.com/owasprecife/)
 
 
 [Link da Live no YouTube:](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be)

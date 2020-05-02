@@ -14,9 +14,9 @@ region: South America
 |:---:|:---:|:---:|:---:|
 | Grupo no WhatsApp | Perfil no Instagram | Perfil no Twitter | Canal no YouTube |
 
-## Novidades (01/05/2020)
+# Novidades (01/05/2020)
 
-# Primeira live do OWASP Recife
+## Primeira live do OWASP Recife
 Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades. Assista nossa [live](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be) realizada em 01/05/2020 no YouTube
 
 Slides das apresentações: 
@@ -31,7 +31,7 @@ Slides das apresentações:
 
 [- Panorama sobre as fraudes digitais durante a COVID-19](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/FRAUDES-COVID19.pdf?raw=true)
 
-# OWASP Latam@home
+## OWASP Latam@home
 
 ![OWASP Latam@home](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/latam-at-home.jpg?raw=true)
 
@@ -39,7 +39,7 @@ Entre os dias 04 até 08 de Maio ocorrerá o evento OWASP [Latam@home](https://o
 
 - - -
 
-## Equipe OWASP Recife
+# Equipe OWASP Recife
 
 Atualmente, o OWASP Recife é liderado por [Marcelo Revoredo](https://www.linkedin.com/in/marcelo-revoredo-0586559/), [Fábio Iraktan](https://www.linkedin.com/in/f%C3%A1bio-iraktan-0004b6a/), [Thyago Monteiro](https://www.linkedin.com/in/thyagomonteiromsc/), [Osmar Silva](https://www.linkedin.com/in/osmar-carlos-1370b241/) e [Isaque Lopes](https://www.linkedin.com/in/isaque-lopes/).
 
@@ -49,7 +49,7 @@ discussão](https://groups.google.com/a/owasp.org/forum/#!overview)
 
 - - -
 
-## Sobre o OWASP Recife
+# Sobre o OWASP Recife
 
 O OWASP Recife é um dos 7 capítulos brasileiros entre os mais de 200
 Capítulos ativos em todo o mundo. Nosso propósito é esclarecer a
@@ -64,7 +64,7 @@ Para maiores detalhes, acompanhe o calendário de atividades do capítulo.
 
 - - -
 
-## Sobre o Projeto OWASP
+# Sobre o Projeto OWASP
 
 Segue uma lista de 10 (alguns de muitos) projetos da comunidade
 
@@ -90,7 +90,7 @@ Segue uma lista de 10 (alguns de muitos) projetos da comunidade
 
 - - -
 
-## Sugestão de Vídeos
+# Sugestão de Vídeos
 
   - *' [OWASP AppSec Tutorial Project
     Videos](https://www.owasp.org/index.php/OWASP_Appsec_Tutorial_Series):*'
@@ -111,7 +111,7 @@ Segue uma lista de 10 (alguns de muitos) projetos da comunidade
 
 - - -
 
-## Links
+# Links
 
   - *' [Looking for a
     job?](https://www.owasp.org/index.php/OWASP_Jobs)*'
@@ -133,7 +133,7 @@ Segue uma lista de 10 (alguns de muitos) projetos da comunidade
 
 - - -
 
-## About
+# About
 
   - ''' [Video of Recife](http://youtu.be/gDIEQ3u4CRw) '''
 

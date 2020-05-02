@@ -31,6 +31,8 @@ Slides das apresentações:
 
 [- Panorama sobre as fraudes digitais durante a COVID-19](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/FRAUDES-COVID19.pdf?raw=true)
 
+======
+
 ## Equipe OWASP Recife
 
 Atualmente, o OWASP Recife é liderado por [Marcelo Revoredo](https://www.linkedin.com/in/marcelo-revoredo-0586559/), [Fábio Iraktan](https://www.linkedin.com/in/f%C3%A1bio-iraktan-0004b6a/), [Thyago Monteiro](https://www.linkedin.com/in/thyagomonteiromsc/), [Osmar Silva](https://www.linkedin.com/in/osmar-carlos-1370b241/) e [Isaque Lopes](https://www.linkedin.com/in/isaque-lopes/).
@@ -38,6 +40,8 @@ Atualmente, o OWASP Recife é liderado por [Marcelo Revoredo](https://www.linked
 Faça parte do nosso grupo no [WhatsApp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)
 Faça parte da nossa [lista de
 discussão](https://groups.google.com/a/owasp.org/forum/#!overview)
+
+======
 
 ## Sobre o OWASP Recife
 
@@ -51,6 +55,8 @@ desenvolvimento seguro e privacidade. Serão realizados encontros
 semestrais e sem fins lucrativos.
 
 Para maiores detalhes, acompanhe o calendário de atividades do capítulo.
+
+======
 
 ## Sobre o Projeto OWASP
 
@@ -76,6 +82,8 @@ Segue uma lista de 10 (alguns de muitos) projetos da comunidade
   - OWASP Risk Rating Management
     <https://www.owasp.org/index.php/OWASP_Risk_Rating_Management>
 
+======
+
 ## Sugestão de Vídeos
 
   - *' [OWASP AppSec Tutorial Project
@@ -94,6 +102,8 @@ Segue uma lista de 10 (alguns de muitos) projetos da comunidade
 
   - *' [Cross Site
     Scripting](http://www.youtube.com/watch?v=_Z9RQSnf8-g)*'
+
+======
 
 ## Links
 
@@ -114,6 +124,8 @@ Segue uma lista de 10 (alguns de muitos) projetos da comunidade
 
   - *' [Cheat Sheet Series, grab
     yours\!](https://www.owasp.org/index.php/Cheat_Sheets)*'
+
+======
 
 ## About
 

@@ -12,7 +12,7 @@ region: South America
 ## Novidades (01/05/2020)
 Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades, acompanhem nossas redes sociais.
 
-[Grupo no Whatsapp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)
+[![Grupo no Whatsapp](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/whatsapp.png?raw=true)](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)
 
 [Perfil no Instagram](https://www.instagram.com/owasprecife)
 

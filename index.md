@@ -47,16 +47,8 @@ Atualmente, o OWASP Recife é liderado por [Marcelo Revoredo](https://www.linked
 
 # Sobre o OWASP Recife
 
-O OWASP Recife é um dos 7 capítulos brasileiros entre os mais de 200
-Capítulos ativos em todo o mundo. Nosso propósito é esclarecer a
-academia, industria e a sociedade como um todo sobre a importância da
-segurança da informação em nossas vidas. Nosso público-alvo é bem
-diversificado, contudo, o principal objetivo é compartilhar
-conhecimentos sobre a conscientização de riscos, vulnerabilidades,
-desenvolvimento seguro e privacidade. Serão realizados encontros
-semestrais e sem fins lucrativos.
-
-Para maiores detalhes, acompanhe o calendário de atividades do capítulo.
+O OWASP Recife é um dos capítulos brasileiros entre os mais de 200 ativos em todo o mundo. Nosso propósito é esclarecer a academia, industria e a sociedade como um todo sobre a importância da segurança da informação em nossas vidas. Nosso público-alvo é bem
+diversificado, contudo, o principal objetivo é compartilhar conhecimentos sobre a conscientização de riscos, vulnerabilidades, desenvolvimento seguro e privacidade. Serão realizados encontros semestrais e sem fins lucrativos. Para maiores detalhes, acompanhe o calendário de atividades do capítulo.
 
 - - -
 

@@ -35,7 +35,7 @@ Slides das apresentações:
 
 ![OWASP Latam@home](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/latam-at-home.jpg?raw=true)
 
-Entre os dias 04 e 08 de Maio ocorrerá o evento OWASP [Latam@home](https://owasp.org/www-event-2020-latam-at-home/) que será totalmente online com palestras de membros de diversos capítulos da américa latina, e Recife marcará presença, confira a grade da programação. [Clique aqui](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974) para se registrar no evento, é gratuíto!
+Entre os dias 04 e 08 de Maio ocorrerá o evento OWASP [Latam@home](https://owasp.org/www-event-2020-latam-at-home/) que será totalmente online com palestras de membros de diversos capítulos da américa latina, e Recife marcará presença. Confira a grade da programação, [clique aqui](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974) para se registrar no evento, é gratuíto!
 
 - - -
 

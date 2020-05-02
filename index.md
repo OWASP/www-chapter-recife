@@ -30,6 +30,7 @@ Slides das apresentações:
 [- Panorama sobre as fraudes digitais durante a COVID-19](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/FRAUDES-COVID19.pdf?raw=true)
 
 
+
 ![OWASP Latam@home](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/latam-at-home.jpg?raw=true)
 
 Entre os dias 04 até 08 de Maio ocorrerá o evento OWASP [Latam@home](https://owasp.org/www-event-2020-latam-at-home/) que será totalmente online com palestras de membros de diversos capítulos da américa latina, e Recife marcará presença, confira a grade da programação. [Clique aqui](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974) para se registrar no evento, é gratuíto!

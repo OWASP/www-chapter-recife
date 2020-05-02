@@ -15,9 +15,7 @@ region: South America
 | Grupo no WhatsApp | Perfil no Instagram | Perfil no Twitter | Canal no YouTube |
 
 ## Novidades (01/05/2020)
-Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades, 
-
-Assista nossa [live](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be) realizada em 01/05/2020 no YouTube
+Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades. Assista nossa [live](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be) realizada em 01/05/2020 no YouTube
 
 Slides das apresentações: 
 
@@ -30,6 +28,9 @@ Slides das apresentações:
 [- Cuidados com as ferramentas para trabalho em home office](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/osmar.pdf?raw=true)
 
 [- Panorama sobre as fraudes digitais durante a COVID-19](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/FRAUDES-COVID19.pdf?raw=true)
+
+![OWASP Latam@home](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/latam-at-home.jpg?raw=true)
+Entre os dias 04 até 08 de Maio ocorrerá o evento OWASP [Latam@home](https://owasp.org/www-event-2020-latam-at-home/) que será totalmente online com palestras de membros de diversos capítulos da américa latina, e Recife marcará presença, confira a grade da programação. [Clique aqui](https://www.eventbrite.com/e/owasp-latamhome-tickets-103551382974) para se registrar no evento, é gratuíto!
 
 - - -
 

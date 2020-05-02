@@ -15,6 +15,8 @@ region: South America
 | Grupo no WhatsApp | Perfil no Instagram | Perfil no Twitter | Canal no YouTube |
 
 ## Novidades (01/05/2020)
+
+# Primeira live do OWASP Recife
 Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades. Assista nossa [live](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be) realizada em 01/05/2020 no YouTube
 
 Slides das apresentações: 
@@ -29,7 +31,7 @@ Slides das apresentações:
 
 [- Panorama sobre as fraudes digitais durante a COVID-19](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/FRAUDES-COVID19.pdf?raw=true)
 
-
+# OWASP Latam@home
 
 ![OWASP Latam@home](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/latam-at-home.jpg?raw=true)
 

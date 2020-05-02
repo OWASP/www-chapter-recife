@@ -31,6 +31,7 @@ Slides das apresentações:
 
 [- Panorama sobre as fraudes digitais durante a COVID-19](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/FRAUDES-COVID19.pdf?raw=true)
 
+- - -
 
 ## Equipe OWASP Recife
 

@@ -41,6 +41,7 @@ Faça parte do nosso grupo no [WhatsApp](https://chat.whatsapp.com/IeccmuaEXJ0LC
 Faça parte da nossa [lista de
 discussão](https://groups.google.com/a/owasp.org/forum/#!overview)
 
+- - -
 
 ## Sobre o OWASP Recife
 
@@ -55,6 +56,7 @@ semestrais e sem fins lucrativos.
 
 Para maiores detalhes, acompanhe o calendário de atividades do capítulo.
 
+- - -
 
 ## Sobre o Projeto OWASP
 
@@ -80,6 +82,7 @@ Segue uma lista de 10 (alguns de muitos) projetos da comunidade
   - OWASP Risk Rating Management
     <https://www.owasp.org/index.php/OWASP_Risk_Rating_Management>
 
+- - -
 
 ## Sugestão de Vídeos
 
@@ -100,6 +103,7 @@ Segue uma lista de 10 (alguns de muitos) projetos da comunidade
   - *' [Cross Site
     Scripting](http://www.youtube.com/watch?v=_Z9RQSnf8-g)*'
 
+- - -
 
 ## Links
 
@@ -121,6 +125,7 @@ Segue uma lista de 10 (alguns de muitos) projetos da comunidade
   - *' [Cheat Sheet Series, grab
     yours\!](https://www.owasp.org/index.php/Cheat_Sheets)*'
 
+- - -
 
 ## About
 

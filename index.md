@@ -14,10 +14,11 @@ Gostariamos de agradecer a participação de todos na nossa primeira live, em br
 
 [Grupo no Whatsapp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)
 
-[Perfil no Instagram](https://www.instagram.com/owasprecife/)
+[Perfil no Instagram](https://www.instagram.com/owasprecife)
 
+[Perfil no Twitter](https://twitter.com/owasprecife)
 
-[Link da Live no YouTube:](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be)
+Assista nossa [live](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be) realizada em 01/05/2020 no YouTube
 
 Slides das apresentações: 
 
@@ -31,16 +32,11 @@ Slides das apresentações:
 
 [- Panorama sobre as fraudes digitais durante a COVID-19](https://github.com/OWASP/www-chapter-recife/blob/master/lives/01/FRAUDES-COVID19.pdf?raw=true)
 
-## Novidades (22/04/2020)
-
-**Diante o panorama atual da pandemia do novo coronavírus (covid-19), a programação presencial foi prorrogada. Contudo, participe do nosso grupo no [Whatsapp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza) para saber das nossas atividades na modalidade webinar.**
-
-Acompanhe também nosso **[Instagram](https://www.instagram.com/owasprecife/)**
-
 ## Equipe OWASP Recife
 
 Atualmente, o OWASP Recife é liderado por [Marcelo Revoredo](https://www.linkedin.com/in/marcelo-revoredo-0586559/), [Fábio Iraktan](https://www.linkedin.com/in/f%C3%A1bio-iraktan-0004b6a/), [Thyago Monteiro](https://www.linkedin.com/in/thyagomonteiromsc/), [Osmar Silva](https://www.linkedin.com/in/osmar-carlos-1370b241/) e [Isaque Lopes](https://www.linkedin.com/in/isaque-lopes/).
 
+Faça parte do nosso grupo no [WhatsApp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)
 Faça parte da nossa [lista de
 discussão](https://groups.google.com/a/owasp.org/forum/#!overview)
 

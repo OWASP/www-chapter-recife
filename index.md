@@ -8,12 +8,13 @@ level: 0
 region: South America
 
 ---
+![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)
+
 Acompanhem-nos em nossas redes sociais.
 | [![Grupo no WhatsApp](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/whatsapp.png?raw=true)](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)  | [![Perfil no Instagram](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/instagram.png?raw=true)](https://www.instagram.com/owasprecife) | [![Perfil no Twitter](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/twitter.png?raw=true)](https://twitter.com/owasprecife) | [![Canal no YouTube](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/youtube.png?raw=true)](https://www.youtube.com/channel/UCyFs9NE-AoiR9GxCAav0kMg) |
 |:---:|:---:|:---:|:---:|
 | Grupo no WhatsApp | Perfil no Instagram | Perfil no Twitter | Canal no YouTube |
 
-![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)
 ## Novidades (01/05/2020)
 Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades, 
 

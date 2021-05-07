@@ -8,7 +8,7 @@ level: 0
 region: South America
 
 ---
-![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife.png?raw=true)
+![ChapterRecife](https://github.com/OWASP/www-chapter-recife/blob/master/logo-owasp-chapter-recife-w.png?raw=true)
 
 | [![Grupo no WhatsApp](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/whatsapp.png?raw=true)](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)  | [![Perfil no Instagram](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/instagram.png?raw=true)](https://www.instagram.com/owasprecife) | [![Perfil no Twitter](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/twitter.png?raw=true)](https://twitter.com/owasprecife) | [![Canal no YouTube](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/youtube.png?raw=true)](https://www.youtube.com/channel/UCyFs9NE-AoiR9GxCAav0kMg) |
 |:---:|:---:|:---:|:---:|

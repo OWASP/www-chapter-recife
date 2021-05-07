@@ -17,7 +17,7 @@ region: South America
 # Novidades (07/05/2021)
 
 ## Bate papo com Gerson Castro (Tempest)
-Pessoal, no dia 06/05 as 18:30 o OWASP Recife realizou um meeting que proporcionou uma conversa muito legal com Gerson Castro, ARP da Tempest. Gerson comentou sobre ações e investimentos em Desenvolvimento Profissional, Pesquisa e Inovação em CiberEducação, em Recife e em uma visão geral do mercado. Nós disponibilizamos o vídeo nesse encontro no YouTube, segue link: https://www.youtube.com/watch?v=VY4e7-ltJLI&t=1s
+Pessoal, no dia 06/05 as 18:30 o OWASP Recife realizou um meeting que proporcionou uma conversa muito legal com Gerson Castro, ARP da Tempest. Gerson comentou sobre ações e investimentos em Desenvolvimento Profissional, Pesquisa e Inovação em CiberEducação, em Recife e em uma visão geral do mercado. Nós disponibilizamos o vídeo nesse encontro no [YouTube](https://www.youtube.com/watch?v=VY4e7-ltJLI&t=1s)] 
 
 # Novidades (01/05/2020)
 

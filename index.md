@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Recife
 tags: agenda-tag
 level: 0
-
+meetup-group: owasp-recife-meetup-group
 region: South America
 
 ---
@@ -13,6 +13,16 @@ region: South America
 | [![Grupo no WhatsApp](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/whatsapp.png?raw=true)](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)  | [![Perfil no Instagram](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/instagram.png?raw=true)](https://www.instagram.com/owasprecife) | [![Perfil no Twitter](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/twitter.png?raw=true)](https://twitter.com/owasprecife) | [![Canal no YouTube](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/youtube.png?raw=true)](https://www.youtube.com/channel/UCyFs9NE-AoiR9GxCAav0kMg) |
 |:---:|:---:|:---:|:---:|
 | Grupo no WhatsApp | Perfil no Instagram | Perfil no Twitter | Canal no YouTube |
+
+## Upcoming events
+
+We schedule our meetings on the [OWASP Recife Meetup Group](https://www.meetup.com/owasp-recife-meetup-group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
+## Past events
 
 # Novidades (07/05/2021)
 

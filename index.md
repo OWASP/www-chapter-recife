@@ -20,7 +20,7 @@ Agendamos nossas reuniões no grupo do OWASP Recife no Meetup (https://www.meetu
 
 {% include chapter_events.html group=page.meetup-group %}
 
-Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere [ingressar no OWASP] (https://owasp.org/membership/) se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.
+Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere ingressar no projeto OWASP Foundation (https://owasp.org/membership/) se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.
 
 ## Eventos passados
 

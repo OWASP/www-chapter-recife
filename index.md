@@ -14,15 +14,15 @@ region: South America
 |:---:|:---:|:---:|:---:|
 | Grupo no WhatsApp | Perfil no Instagram | Perfil no Twitter | Canal no YouTube |
 
-## Upcoming events
+## Próximos Eventos
 
-We schedule our meetings on the [OWASP Recife Meetup Group](https://www.meetup.com/owasp-recife-meetup-group/)
+Agendamos nossas reuniões no grupo do OWASP Recife no Meetup (https://www.meetup.com/owasp-recife-meetup-group/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
-Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere [ingressar no OWASP] (https://owasp.org/membership/) se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.
 
-## Past events
+## Eventos passados
 
 # Novidades (07/05/2021)
 

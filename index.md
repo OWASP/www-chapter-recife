@@ -19,6 +19,7 @@ OWASP Recife está orgulhosamente celebrando o 20º aniversário da OWASP Founda
 
 ## Próximos Eventos
 Segue a programação do nosso próximo encontro:
+
 ![MeetBidWeb](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-meet-2.png?raw=true)
 
 Agendamos nossas reuniões no grupo do OWASP Recife no Meetup (https://www.meetup.com/owasp-recife-meetup-group/)

@@ -26,15 +26,13 @@ Segue a programação do nosso próximo encontro:
 
 {% include chapter_events.html group=page.meetup-group %}
 
+## Eventos realizados
+
 ## Bate papo com Carlos Sampaio (BidWeb Security IT)
 
 ![MeetBidWeb](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-meet-2.png?raw=true)
 
 Nós disponibilizamos no [YouTube](https://youtu.be/QIYhWW_YcyE) o vídeo desse encontro.
-
-## Eventos passados
-
-# Novidades (07/05/2021)
 
 ## Bate papo com Gerson Castro (Tempest Security Inteligence)
 Pessoal, no dia 06/05 as 18:30 o OWASP Recife realizou um meeting que proporcionou uma conversa muito legal com Gerson Castro, ARP da Tempest. Gerson comentou sobre ações e investimentos em Desenvolvimento Profissional, Pesquisa e Inovação em CiberEducação, na ótica do mercado de Recife e do mundo. Nós disponibilizamos no [YouTube](https://www.youtube.com/watch?v=VY4e7-ltJLI&t=1s) o vídeo desse encontro.

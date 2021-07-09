@@ -14,6 +14,10 @@ region: South America
 |:---:|:---:|:---:|:---:|
 | Grupo no WhatsApp | Perfil no Instagram | Perfil no Twitter | Canal no YouTube |
 
+Agendamos nossas reuniões no grupo do OWASP Recife no Meetup (https://www.meetup.com/owasp-recife-meetup-group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
 OWASP Recife está orgulhosamente celebrando o 20º aniversário da OWASP Foundation!
 ![Owasp20th](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-20th.jpg?raw=true)
 
@@ -23,10 +27,6 @@ Nossas reuniões são abertas ao público e você não precisa ser um membro par
 Segue a programação do nosso próximo encontro:
 
 ![MeetBidWeb](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-meet-2.png?raw=true)
-
-Agendamos nossas reuniões no grupo do OWASP Recife no Meetup (https://www.meetup.com/owasp-recife-meetup-group/)
-
-{% include chapter_events.html group=page.meetup-group %}
 
 Nós disponibilizamos no [YouTube](https://youtu.be/QIYhWW_YcyE) o vídeo desse encontro.
 

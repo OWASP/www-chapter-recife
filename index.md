@@ -40,7 +40,10 @@ No dia 07/07 as 19:00 realizamos um meeting sobre o tema: "Desafios e oportunida
 
 Pessoal, no dia 06/05 as 18:30 o OWASP Recife realizou um meeting que proporcionou uma conversa muito legal com Gerson Castro, ARP da Tempest. Gerson comentou sobre ações e investimentos em Desenvolvimento Profissional, Pesquisa e Inovação em CiberEducação, na ótica do mercado de Recife e do mundo. Nós disponibilizamos no [YouTube](https://www.youtube.com/watch?v=VY4e7-ltJLI&t=1s) o vídeo desse encontro.
 
-## Primeira live do OWASP Recife
+## OWASP Recife Live Connection
+
+![OWASPConnection](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-connection.png?raw=true)
+
 Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades. Assista nossa [live](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be) realizada em 01/05/2020 no YouTube
 
 Slides das apresentações: 

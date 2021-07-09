@@ -14,7 +14,7 @@ region: South America
 |:---:|:---:|:---:|:---:|
 | Grupo no WhatsApp | Perfil no Instagram | Perfil no Twitter | Canal no YouTube |
 
-Agendamos nossas reuniões no grupo do OWASP Recife no Meetup (https://www.meetup.com/owasp-recife-meetup-group/)
+Agendamos nossas reuniões no grupo do [OWASP Recife no Meetup](https://www.meetup.com/owasp-recife-meetup-group/)!
 
 {% include chapter_events.html group=page.meetup-group %}
 

@@ -18,7 +18,7 @@ Agendamos nossas reuniões no grupo do [OWASP Recife no Meetup](https://www.meet
 
 {% include chapter_events.html group=page.meetup-group %}
 
-Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere ingressar no projeto OWASP Foundation (https://owasp.org/membership/) se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.
+Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere [ingressar](https://owasp.org/membership/) no projeto OWASP Foundation se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.
 
 OWASP Recife está orgulhosamente celebrando o 20º aniversário da OWASP Foundation!
 ![Owasp20th](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-20th.jpg?raw=true)

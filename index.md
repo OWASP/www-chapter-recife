@@ -32,7 +32,7 @@ Segue a programação do nosso próximo encontro:
 
 ![MeetBidWeb](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-meet-2.png?raw=true)
 
-Nós disponibilizamos no [YouTube](https://youtu.be/QIYhWW_YcyE) o vídeo desse encontro.
+No dia 07/07 as 19:00 realizamos um meeting sobre o tema: "Desafios e oportunidades no mercado de Segurança Cibernética, da Privacidade e da Informação". O convidado ilustre dessa vez foi Carlos Sampaio da BidWeb Security IT. Ele é Diretor de Inovação e executivo experiente com um histórico comprovado de trabalho na indústria de tecnologia da informação e serviços. Participa e lidera grupos de pesquisa acadêmica com ênfase nos temas de Cloud Computing, Security Patterns, Smart-Cities, Criptografia aplicada, Privacidade e Compliance, e Blockchain. Está inserido no ecossistema de TI local, regional e nacional e integrou alguns cargos de destaque como: VP do comitê aberto de TI da Câmara de Comércio Americana (AmCham), membro do Conselho Regional da AmCham, membro do comitê estratégico do Grupo de Executivos de Tecnologia, Inovação e Comunicação do Nordeste (GETIC NE), e do Fórum de CIOs & CTOs do Recife (Recife Antigo, Porto Digital e afins). Nós disponibilizamos no [YouTube](https://youtu.be/QIYhWW_YcyE) o vídeo desse encontro.
 
 ## Bate papo com Gerson Castro (Tempest Security Inteligence)
 

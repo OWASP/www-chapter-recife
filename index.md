@@ -16,8 +16,6 @@ region: South America
 
 Agendamos nossas reuniões no grupo do [OWASP Recife no Meetup](https://www.meetup.com/owasp-recife-meetup-group/)!
 
-{% include chapter_events.html group=page.meetup-group %}
-
 Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere [ingressar](https://owasp.org/membership/) no projeto OWASP Foundation se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.
 
 OWASP Recife está orgulhosamente celebrando o 20º aniversário da OWASP Foundation!
@@ -25,6 +23,10 @@ OWASP Recife está orgulhosamente celebrando o 20º aniversário da OWASP Founda
 
 ## Próximos Eventos
 Segue a programação do nosso próximo encontro:
+
+{% include chapter_events.html group=page.meetup-group %}
+
+## Bate papo com Carlos Sampaio (BidWeb Security IT)
 
 ![MeetBidWeb](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-meet-2.png?raw=true)
 
@@ -34,7 +36,7 @@ Nós disponibilizamos no [YouTube](https://youtu.be/QIYhWW_YcyE) o vídeo desse 
 
 # Novidades (07/05/2021)
 
-## Bate papo com Gerson Castro (Tempest)
+## Bate papo com Gerson Castro (Tempest Security Inteligence)
 Pessoal, no dia 06/05 as 18:30 o OWASP Recife realizou um meeting que proporcionou uma conversa muito legal com Gerson Castro, ARP da Tempest. Gerson comentou sobre ações e investimentos em Desenvolvimento Profissional, Pesquisa e Inovação em CiberEducação, na ótica do mercado de Recife e do mundo. Nós disponibilizamos no [YouTube](https://www.youtube.com/watch?v=VY4e7-ltJLI&t=1s) o vídeo desse encontro.
 
 # Novidades (01/05/2020)

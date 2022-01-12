@@ -18,14 +18,10 @@ Agendamos nossas reuniões no grupo do [OWASP Recife no Meetup](https://www.meet
 
 Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere [ingressar](https://owasp.org/membership/) no projeto OWASP Foundation se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.
 
-OWASP Recife está orgulhosamente celebrando o 20º aniversário da OWASP Foundation!
-![Owasp20th](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-20th.jpg?raw=true)
-
 # Próximos Eventos
 Segue a programação do nosso próximo encontro:
 
 ![OwaspRecife2022-01](https://github.com/OWASP/www-chapter-recife/blob/master/palestra-owasp-01-2022.png?raw=true)
-
 
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -48,6 +44,9 @@ Pessoal, no dia 06/05 as 18:30 o OWASP Recife realizou um meeting que proporcion
 ![OWASPConnection](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-connection.png?raw=true)
 
 Gostariamos de agradecer a participação de todos na nossa primeira live, em breve teremos novas atividades. Assista nossa [live](https://www.youtube.com/watch?v=PwSKct1WZ_8&feature=youtu.be) realizada em 01/05/2020 no YouTube
+
+OWASP Recife está orgulhosamente celebrando o 20º aniversário da OWASP Foundation!
+![Owasp20th](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-20th.jpg?raw=true)
 
 Slides das apresentações: 
 

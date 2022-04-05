@@ -21,11 +21,11 @@ Nossas reuniões são abertas ao público e você não precisa ser um membro par
 # Próximos Eventos
 Segue a programação do nosso próximo encontro:
 
-![OwaspRecife2022-01](https://github.com/OWASP/www-chapter-recife/blob/master/palestra-owasp-01-2022-600.png?raw=true)
-
 {% include chapter_events.html group=page.meetup-group %}
 
 # Eventos realizados
+
+![OwaspRecife2022-01](https://github.com/OWASP/www-chapter-recife/blob/master/palestra-owasp-01-2022-600.png?raw=true)
 
 ## Bate papo com Carlos Sampaio (BidWeb Security IT)
 

@@ -25,7 +25,11 @@ Segue a programação do nosso próximo encontro:
 
 # Eventos realizados
 
+## Bate papo com Paulo Alessandro (Tempest Security Intelligence)
+
 ![OwaspRecife2022-01](https://github.com/OWASP/www-chapter-recife/blob/master/palestra-owasp-01-2022-600.png?raw=true)
+
+No dia 09/01/2022 às 19:00 realizamos um meeting como tema: "LGPD: Aplicabilidade e Conscientização". O convidado ilustre dessa vez foi Paulo Alessandro (PA) da Tempest Security Intelligence. Ele é formado em Processamento de Dados pela Fundação Paula Souza, graduado em Relações Internacionais e com especializações em Direito Digital pelo INSPER e Gestão de Tecnologia da Informação pela FGV. Head de Sales Engineering na Tempest. Possui mais de 20 anos de atuação no mercado nacional e internacional. Foi também condecorado como Auditor Líder da ISO27001. Nós disponibilizamos no [YouTube](https://youtu.be/DsO4ZXlxYT4) o vídeo desse encontro.
 
 ## Bate papo com Carlos Sampaio (BidWeb Security IT)
 
@@ -33,7 +37,7 @@ Segue a programação do nosso próximo encontro:
 
 No dia 07/07 as 19:00 realizamos um meeting sobre o tema: "Desafios e oportunidades no mercado de Segurança Cibernética, da Privacidade e da Informação". O convidado ilustre dessa vez foi Carlos Sampaio da BidWeb Security IT. Ele é Diretor de Inovação e executivo experiente com um histórico comprovado de trabalho na indústria de tecnologia da informação e serviços. Participa e lidera grupos de pesquisa acadêmica com ênfase nos temas de Cloud Computing, Security Patterns, Smart-Cities, Criptografia aplicada, Privacidade e Compliance, e Blockchain. Está inserido no ecossistema de TI local, regional e nacional e integrou alguns cargos de destaque como: VP do comitê aberto de TI da Câmara de Comércio Americana (AmCham), membro do Conselho Regional da AmCham, membro do comitê estratégico do Grupo de Executivos de Tecnologia, Inovação e Comunicação do Nordeste (GETIC NE), e do Fórum de CIOs & CTOs do Recife (Recife Antigo, Porto Digital e afins). Nós disponibilizamos no [YouTube](https://youtu.be/QIYhWW_YcyE) o vídeo desse encontro.
 
-## Bate papo com Gerson Castro (Tempest Security Inteligence)
+## Bate papo com Gerson Castro (Tempest Security Intelligence)
 
 ![MeetTempest](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-meet-1.jpeg?raw=true)
 

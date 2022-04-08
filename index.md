@@ -21,9 +21,9 @@ Nossas reuniões são abertas ao público e você não precisa ser um membro par
 # Próximos Eventos
 Segue a programação do nosso próximo encontro:
 
-Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nossa comunidade https://www.meetup.com/pt-BR/owasp-recife-meetup-group/
-
 {% include chapter_events.html group=page.meetup-group %}
+
+Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nossa comunidade https://www.meetup.com/pt-BR/owasp-recife-meetup-group/
 
 # Eventos realizados
 

@@ -22,6 +22,7 @@ Nossas reuniões são abertas ao público e você não precisa ser um membro par
 Segue a programação do nosso próximo encontro:
 
 ![OwaspRecife2022-01](https://github.com/OWASP/www-chapter-recife/blob/master/meeting-eduardo-600.png?raw=true)
+
 O próximo meeting do OWASP Recife ocorrerá dia 13/04 às 19:00 e terá como tema: "A formação acadêmica e profissional em Segurança da Informação" com o ilustre convidado Eduardo Muller. Eduardo é um concluinte do curso de Engenharia da Computação na Universidade de Pernambuco (UPE) e vai conversar conosco sobre sua experiência como estudante e profissional, mais especificamente, ele irá expor alguns desafios e motivações que surgiram durante sua trajetória acadêmica na UPE até a obtenção da sua jornada corporativa na Tempest Security Intelligence. Acreditamos que Eduardo trará um excelente panorama atual do elo academia-indústria, resultando assim em motivações e perspectivas aos que desejam se profissionalizar para o mercado de segurança da informação.
 
 Link para o meetup:

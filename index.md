@@ -23,7 +23,9 @@ Nossas reuniões são abertas ao público e você não precisa ser um membro par
 
 # Próximos Eventos
 
-O próximo meeting do OWASP Recife ocorrerá dia 05/10/2022 às 20:00 e será muito especial, pois estaremos iniciando um projeto chamado "Tempest Tech Sessions", em parceria com a empresa Tempest Security Inteliigence. A ideia é apresentarmos sessões técnicas com calendário regular e previamente estabelecido. A primeira sessão técnica tem como título: "Abusando de Conversores HTML para PDF" conduzida por Eduardo Muller, da referida empresa.
+O próximo meeting do OWASP Recife ocorrerá dia 05/10/2022 às 20:00 e será muito especial, pois estaremos iniciando um projeto chamado "Tempest Tech Sessions", em parceria com a empresa Tempest Security Inteliigence. A primeira sessão técnica tem como título: "Abusando de Conversores HTML para PDF" conduzida por Eduardo Muller, da referida empresa.
+
+O formato convencional adotado pelos meetings do OWASP Recife focam mais no indivíduo e tentam não ser tão técnicos, prezado mais nos relatos de experiência do convidado. Já o formato da "Tempest Tech Sessions" pretende oferecer uma abordagem mais técnica, priorizando mais uma determinada ferramenta e/ou estudo realizado. Além disso, o projeto terá um calendário regular e previamente estabelecido. 
 
 ![TempestTechSessions01](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-tech-sessons-01.jpeg?raw=true)
 
@@ -37,7 +39,11 @@ Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nos
 
 ![OwaspRecife2022-01](https://github.com/OWASP/www-chapter-recife/blob/master/meeting-eduardo-600.png?raw=true)
 
-No dia 13/04/2022 às 19:00 realizamos um meeting como tema: "A formação acadêmica e profissional em Segurança da Informação". O convidado ilustre dessa vez foi Eduardo Muller (Barbixa) da Tempest Security Intelligence. Eduardo é um concluinte do curso de Engenharia da Computação na Universidade de Pernambuco (UPE) e conversou conosco sobre sua experiência como estudante e profissional, mais especificamente, expôs alguns desafios e motivações que surgiram durante sua trajetória acadêmica na UPE até a obtenção da sua jornada corporativa na Tempest Security Intelligence. Acreditamos que Eduardo trouxe um excelente panorama atual do elo academia-indústria, resultando assim em motivações e perspectivas aos que desejam se profissionalizar para o mercado de segurança da informação.
+O próximo meeting do OWASP Recife ocorrerá dia 05/10/2022 às 20:00 e será muito especial, pois estaremos iniciando um projeto chamado "Tempest Tech Sessions", em parceria com a empresa Tempest Security Inteliigence. A primeira sessão técnica tem como título: "Abusando de Conversores HTML para PDF" conduzida por Eduardo Muller, da referida empresa.
+
+O formato convencional adotado pelos meetings do OWASP Recife focam mais no indivíduo e tentam não ser tão técnicos, prezado mais nos relatos de experiência do convidado. Já o formato da "Tempest Tech Sessions" pretende oferecer uma abordagem mais técnica e curta, priorizando uma determinada ferramenta e/ou estudo realizado. Além disso, o projeto terá um calendário regular e previamente estabelecido. 
+
+*** Em breve mais informações ***
 
 [Link para o Meetup do Evento do OWASP Recife](https://www.meetup.com/owasp-recife-meetup-group/events/285064588/)
 

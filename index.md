@@ -23,7 +23,9 @@ Nossas reuniões são abertas ao público e você não precisa ser um membro par
 
 # Próximos Eventos
 
-O próximo meeting do OWASP Recife ocorrerá dia 05/10/2022 às 20:00 e será muito especial, pois estaremos iniciando um projeto chamado "Tempest Tech Sessions", em parceria com a empresa Tempest Security Inteliigence. A ideia é apresentarmos sessões técnicas com calendário regular e previamente estabelecido. A primeira sessão técnica tem como título: "Abusando de Conversores HTML para PDF" conduzida por Eduardo Muller, da referida empresa. 
+O próximo meeting do OWASP Recife ocorrerá dia 05/10/2022 às 20:00 e será muito especial, pois estaremos iniciando um projeto chamado "Tempest Tech Sessions", em parceria com a empresa Tempest Security Inteliigence. A ideia é apresentarmos sessões técnicas com calendário regular e previamente estabelecido. A primeira sessão técnica tem como título: "Abusando de Conversores HTML para PDF" conduzida por Eduardo Muller, da referida empresa.
+
+![TempestTechSessions01](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-tech-sessons-01.jpeg?raw=true)
 
 {% include chapter_events.html group=page.meetup-group %}
 

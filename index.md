@@ -25,6 +25,12 @@ Nossas reuniões são abertas ao público e você não precisa ser um membro par
 
 {% include chapter_events.html group=page.meetup-group %}
 
+Link da Inscrição: [https://bit.ly/tempest-tech-sessions](https://bit.ly/tempest-tech-sessions)
+
+OBS.: o link da videoconferência será enviado após o preenchimento do formulário de inscrição.
+
+[![TempestTechSessions01](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-tech-sessons-01.jpeg?raw=true)](https://bit.ly/tempest-tech-sessions)
+
 # Eventos realizados
 
 ## Bate papo com o Grupo Tarponise (Universidade de Pernambuco)

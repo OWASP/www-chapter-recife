@@ -23,7 +23,7 @@ Nossas reuniões são abertas ao público e você não precisa ser um membro par
 
 # Próximos Eventos
 
-Dando continuidade nas iniciativas do OWASP Recife, no dia 05/10/2022 às 20:00, iremos dar início a um projeto muito especial em parceria com a empresa Tempest Security Inteliigence, denominado "*Tempest Tech Sessions*". A primeira sessão técnica tem como título: "Abusando de Conversores HTML para PDF" e será ministrada por Eduardo Muller, da referida empresa.
+Dando continuidade nas iniciativas do OWASP Recife, no dia 05/10/2022 às 20:00, iremos dar início a um projeto muito especial em parceria com a empresa Tempest Security Inteliigence, denominado *Tempest Tech Sessions*. A primeira sessão técnica tem como título: "Abusando de Conversores HTML para PDF" e será ministrada por Eduardo Muller, da referida empresa.
 
 Até hoje, os meetings do OWASP Recife vinham possuindo um formato mais focado nos relatos de experiência de seus convidados. Já o formato da "Tempest Tech Sessions" pretende oferecer uma abordagem mais técnica, ou seja, um encontro dirigido para uma determinada ferramenta e/ou estudo de caso realizado que podem ser apresentados numa palestra, workshop ou mini-curso. Estas sessões técnicas visam contribuir com o compartilhamento e disseminação de conhecimento técnico em cibersegurança através do know-how e expertise de mais de duas décadas da Tempest e serão sempre ministradas por profissionais que atuam na própria empresa e mediadas pelos organizadores do OWASP Recife. Além disso, o projeto "Tempest Tech Sessions" terá um calendário regular e encontros previamente estabelecidos.
 ![TempestTechSessions01](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-tech-sessons-01.jpeg?raw=true)

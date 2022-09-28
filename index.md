@@ -41,12 +41,12 @@ Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nos
 
 ## Bate papo com o Grupo Tarponise (Universidade de Pernambuco)
 
-![OwaspRecife2022-01](https://github.com/OWASP/www-chapter-recife/blob/master/meeting-eduardo-600.png?raw=true)
+![TarponiseTeam](https://github.com/OWASP/www-chapter-recife/blob/master/tarponise.png?raw=true)
 No dia 27/07/22022 às 20:00 ocorreu o meeting com o tema: "Grupo de estudo em Segurança da Informação nas instituições de ensino superior" e o Tarponise Team foi o convidado para o encontro. O Tarponise é um projeto de extensão criado na Escola Politécnica de Pernambuco (POLI) da Universidade de Pernambuco (UPE). O grupo apresentou a motivação e objetivos do projeto, bem como um panorama do elo academia e mercado de segurança da informação entre os alunos de graduação em cursos de tecnologia.
 
 ## Bate papo com Eduardo Muller (Tempest Security Intelligence)
 
-![OwaspRecife2022-01](https://github.com/OWASP/www-chapter-recife/blob/master/meeting-eduardo-600.png?raw=true)
+![EduardoMuller](https://github.com/OWASP/www-chapter-recife/blob/master/meeting-eduardo-600.png?raw=true)
 
 No dia 13/04/2022 às 19:00 ocorreu o meeting com o tema: "A formação acadêmica e profissional em Segurança da Informação", apresentado pelo ilustre convidado Eduardo Muller. Eduardo é um concluinte do curso de Engenharia da Computação na Universidade de Pernambuco (UPE) e conversou conosco sobre sua experiência como estudante e profissional, mais especificamente, ele expôs alguns desafios e motivações que surgiram durante sua trajetória acadêmica na Universidade de Pernambuco (UPE) até a obtenção da sua jornada corporativa na Tempest Security Intelligence. Acreditamos que Eduardo trouxe um excelente panorama atual do elo academia-indústria, resultando assim em motivações e perspectivas aos que desejam se profissionalizar para o mercado de segurança da informação.
 

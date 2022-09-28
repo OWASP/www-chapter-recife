@@ -17,15 +17,13 @@ region: South America
 | Grupo no WhatsApp | Perfil no Instagram | Perfil no Twitter | Canal no YouTube | Grupo no Meetup |
 
 
-Agendamos nossas reuniões no grupo do [OWASP Recife no Meetup](https://www.meetup.com/owasp-recife-meetup-group/)!
+Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nossa comunidade [OWASP Recife no Meetup](https://www.meetup.com/owasp-recife-meetup-group/)
 
 Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere [ingressar](https://owasp.org/membership/) no projeto OWASP Foundation se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.
 
 # Próximos Eventos
 
 {% include chapter_events.html group=page.meetup-group %}
-
-Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nossa comunidade [OWASP Recife no Meetup](https://www.meetup.com/owasp-recife-meetup-group/)
 
 # Eventos realizados
 

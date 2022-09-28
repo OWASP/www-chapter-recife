@@ -27,7 +27,7 @@ Dando continuidade nas iniciativas do OWASP Recife, no dia 05/10/2022 às 20:00,
 
 Até hoje, os meetings do OWASP Recife vinham possuindo um formato mais focado nos relatos de experiência de seus convidados. Já o formato da "Tempest Tech Sessions" pretende oferecer uma abordagem mais técnica, ou seja, um encontro dirigido para uma determinada ferramenta e/ou estudo de caso realizado que podem ser apresentados numa palestra, workshop ou mini-curso. Estas sessões técnicas visam contribuir com o compartilhamento e disseminação de conhecimento técnico em cibersegurança através do know-how e expertise de mais de duas décadas da Tempest e serão sempre ministradas por profissionais que atuam na própria empresa e mediadas pelos organizadores do OWASP Recife. Além disso, o projeto "Tempest Tech Sessions" terá um calendário regular e encontros previamente estabelecidos.
 
-Link da Inscrição: https://bit.ly/tempest-tech-sessions
+Link da Inscrição: [https://bit.ly/tempest-tech-sessions](https://bit.ly/tempest-tech-sessions)
 
 OBS.: o link da videoconferência será enviado após o preenchimento do formulário de inscrição.
 

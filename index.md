@@ -12,9 +12,7 @@ region: South America
   <img width="400" height="400" src="https://github.com/OWASP/www-chapter-recife/blob/master/frente-meio2.png?raw=true">
 </p>
 
-Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nossa comunidade [OWASP Recife no Meetup](https://www.meetup.com/owasp-recife-meetup-group/)
-
-Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere [ingressar](https://owasp.org/membership/) no projeto OWASP Foundation se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.
+Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nossa comunidade [OWASP Recife no Meetup](https://www.meetup.com/owasp-recife-meetup-group/). Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere [ingressar](https://owasp.org/membership/) no projeto OWASP Foundation se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.
 
 # Próximos Eventos
 

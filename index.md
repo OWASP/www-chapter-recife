@@ -12,11 +12,6 @@ region: South America
   <img width="400" height="400" src="https://github.com/OWASP/www-chapter-recife/blob/master/frente-meio2.png?raw=true">
 </p>
 
-| [![Grupo no WhatsApp](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/whatsapp.png?raw=true)](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza)  | [![Perfil no Instagram](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/instagram.png?raw=true)](https://www.instagram.com/owasprecife) | [![Perfil no Twitter](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/twitter.png?raw=true)](https://twitter.com/owasprecife) | [![Canal no YouTube](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/youtube.png?raw=true)](https://www.youtube.com/channel/UCyFs9NE-AoiR9GxCAav0kMg) | [![Grupo no Meetup](https://github.com/OWASP/www-chapter-recife/blob/master/assets/images/meetup.png?raw=true)](https://www.meetup.com/pt-BR/owasp-recife-meetup-group/)|
-|:---:|:---:|:---:|:---:|:---:|
-| Grupo no WhatsApp | Perfil no Instagram | Perfil no Twitter | Canal no YouTube | Grupo no Meetup |
-
-
 Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nossa comunidade [OWASP Recife no Meetup](https://www.meetup.com/owasp-recife-meetup-group/)
 
 Nossas reuniões são abertas ao público e você não precisa ser um membro para participar. Por favor, considere [ingressar](https://owasp.org/membership/) no projeto OWASP Foundation se você achar que nossa comunidade, projetos e reuniões são valiosos, ou patrocinar este capítulo.

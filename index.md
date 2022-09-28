@@ -39,6 +39,11 @@ Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nos
 
 # Eventos realizados
 
+## Bate papo com o Grupo Tarponise (Universidade de Pernambuco)
+
+![OwaspRecife2022-01](https://github.com/OWASP/www-chapter-recife/blob/master/meeting-eduardo-600.png?raw=true)
+No dia 27/07/22022 às 20:00 ocorreu o meeting com o tema: "Grupo de estudo em Segurança da Informação nas instituições de ensino superior" e o Tarponise Team foi o convidado para o encontro. O Tarponise é um projeto de extensão criado na Escola Politécnica de Pernambuco (POLI) da Universidade de Pernambuco (UPE). O grupo apresentou a motivação e objetivos do projeto, bem como um panorama do elo academia e mercado de segurança da informação entre os alunos de graduação em cursos de tecnologia.
+
 ## Bate papo com Eduardo Muller (Tempest Security Intelligence)
 
 ![OwaspRecife2022-01](https://github.com/OWASP/www-chapter-recife/blob/master/meeting-eduardo-600.png?raw=true)

@@ -96,7 +96,7 @@ Entre os dias 04 e 08 de Maio ocorrerá o evento OWASP [Latam@home](https://owas
 
 # Equipe OWASP Recife
 
-Atualmente, o OWASP Recife é liderado por [Marcelo Revoredo](https://www.linkedin.com/in/marcelo-revoredo-0586559/), [Fábio Iraktan](https://www.linkedin.com/in/f%C3%A1bio-iraktan-0004b6a/), [Thyago Monteiro](https://www.linkedin.com/in/thyagomonteiromsc/), [Osmar Silva](https://www.linkedin.com/in/osmar-carlos-1370b241/) e [Isaque Lopes](https://www.linkedin.com/in/isaque-lopes/). Faça parte do nosso grupo no [
+Atualmente, o OWASP Recife é liderado por [Marcelo Revoredo](https://www.linkedin.com/in/marcelo-revoredo-0586559/). Faça parte do nosso grupo no [
 sApp](https://chat.whatsapp.com/IeccmuaEXJ0LCsZrPnSFza) e nossa [lista de discussão oficial](https://groups.google.com/a/owasp.org/forum/#!overview).
 
 - - -

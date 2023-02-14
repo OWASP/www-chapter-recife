@@ -25,6 +25,7 @@ O OWASP Recife em conjunto com a Tempest Security Intelligence tem muita alegria
 O evento é híbrido (presencial + remoto). Corram porque as vagas presenciais são limitadas. Contudo, quem não puder participar presencialmente haverá a opção de participar na modalidade remota através da plataforma Zoom, as vagas para essa modalidade serão ilimitadas.
 
 TODAS AS INSCRIÇÕES DEVEM SE REALIZADAS ATRAVÉS DA PLATAFORMA EVENT3:
+
 Link da Inscrição: [https://www.even3.com.br/tempest-tech-sessions-pos-exploracao/](https://www.even3.com.br/tempest-tech-sessions-pos-exploracao/)
 
 Você deverá escolher se sua participação será presencial ou remota.

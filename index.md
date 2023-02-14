@@ -18,13 +18,35 @@ Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nos
 
 {% include chapter_events.html group=page.meetup-group %}
 
+O OWASP Recife em conjunto com a Tempest Security Intelligence tem muita alegria em divulgar o segundo OWASP Tempest Tech Sessions!
+
+O evento é híbrido (presencial + remoto). Corram porque as vagas presenciais são limitadas. Contudo, quem não puder participar presencialmente haverá a opção de participar na modalidade remota através da plataforma Zoom, as vagas para essa modalidade serão ilimitadas.
+
+TODAS AS INSCRIÇÕES DEVEM SE REALIZADAS ATRAVÉS DA PLATAFORMA EVENT3:
+https://www.even3.com.br/tempest-tech-sessions-pos-exploracao/
+
+Você deverá escolher se sua participação será presencial ou remota.
+
+Palestra: Do Cobalt Strike ao Sliver: um panorama sobre as principais ferramentas de pós-exploração usadas por cibercriminosos
+
+Resumo: O que os adversários fazem depois de invadir e explorar um sistema? Nessa palestra vamos discutir sobre as principais ferramentas de pós exploração usadas atualmente, abordando também as fases de um ataque com base em frameworks como Cyber Kill Chain e Mitre ATT&CK, o funcionamento de um servidor de comando e controle e as principais estratégias de defesa e detecção.
+
+Palestrantes: Wanessa Souza
+Shortbio: Wanessa é Analista de Segurança Senior na Tempest, atuando no time de Cyber Threat Intelligence há 5 anos. Com uma paixão a parte pela escrita criativa, Wanessa também é poetisa, astrônoma amadora e ama trocar uma idéia sobre tecnologia, robótica e viagens no tempo.
+Formato da palestra: Híbridro - Presencial (com apenas 30 vagas limitadas) e Online, através da plataforma Zoom. O link de acesso à palestra constará aqui na plataforma Even3 e também será enviado para o seu e-mail cadastrado no momento da inscrição.
+
+Certificado de Participação: A palestra confere certificado de 2 horas.
+Enviaremos para o seu e-mail em até 48h úteis após a palestra. Para que o certificado seja aceito como horas complementares em sua Instituição de Ensino, é importante que preencha o seu nome completo no momento da inscrição.
+
+Esperamos você na nossa palestra! Até lá!
+
+# Eventos realizados
+
 Link da Inscrição: [https://bit.ly/tempest-tech-sessions](https://bit.ly/tempest-tech-sessions)
 
 OBS.: o link da videoconferência será enviado após o preenchimento do formulário de inscrição.
 
 [![TempestTechSessions01](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-tech-sessons-01.jpeg?raw=true)](https://bit.ly/tempest-tech-sessions)
-
-# Eventos realizados
 
 ## Bate papo com o Grupo Tarponise (Universidade de Pernambuco)
 

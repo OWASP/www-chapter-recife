@@ -41,11 +41,7 @@ Esperamos você na nossa palestra! Até lá!
 
 # Eventos realizados
 
-Link da Inscrição: [https://bit.ly/tempest-tech-sessions](https://bit.ly/tempest-tech-sessions)
-
 OBS.: o link da videoconferência será enviado após o preenchimento do formulário de inscrição.
-
-[![TempestTechSessions01](https://github.com/OWASP/www-chapter-recife/blob/master/owasp-tech-sessons-01.jpeg?raw=true)](https://bit.ly/tempest-tech-sessions)
 
 ## Bate papo com o Grupo Tarponise (Universidade de Pernambuco)
 

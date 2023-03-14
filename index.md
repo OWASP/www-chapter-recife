@@ -20,13 +20,9 @@ Estamos no Meetup. Para obter a lista dos eventos mais recentes, junte-se à nos
 
 O OWASP Recife em conjunto com a Tempest Security Intelligence tem muita alegria em divulgar o segundo OWASP Tempest Tech Sessions!
 
-[![TempestTechSessions02](https://github.com/OWASP/www-chapter-recife/blob/master/owasp_tempest_ts_02.jpeg?raw=true)](https://www.even3.com.br/tempest-tech-sessions-pos-exploracao/)
-
 O evento é híbrido (presencial + remoto). Corram porque as vagas presenciais são limitadas. Contudo, quem não puder participar presencialmente haverá a opção de participar na modalidade remota através da plataforma Zoom, as vagas para essa modalidade serão ilimitadas.
 
 TODAS AS INSCRIÇÕES DEVEM SE REALIZADAS ATRAVÉS DA PLATAFORMA EVENT3:
-
-Link da Inscrição: [https://www.even3.com.br/tempest-tech-sessions-pos-exploracao/](https://www.even3.com.br/tempest-tech-sessions-pos-exploracao/)
 
 Você deverá escolher se sua participação será presencial ou remota.
 

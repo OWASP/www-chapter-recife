@@ -5,6 +5,7 @@ title: OWASP Recife
 tags: agenda-tag
 level: 0
 meetup-group: owasp-recife-meetup-group
+country: Brazil
 region: South America
 
 ---

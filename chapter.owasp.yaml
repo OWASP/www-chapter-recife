@@ -1,0 +1,32 @@
+community:
+  - name: chapter-recife
+    platform: slack
+    url: https://owasp.slack.com/archives/C0GCHS07N
+    description: The OWASP Recife Chapter Channel
+leaders:
+  - name: Carlo Marcelo Revoredo da Silva
+    email: marcelo.revoredo@owasp.org
+    github: cmrevoredo
+  - name: Eduardo Müller
+    email: eduardo.muller@owasp.org
+  - name: Pedro Lima
+    email: pedro.lima@owasp.org
+    github: pedrogabrielLima
+location:
+  country: Brazil
+  country_code: BR
+  region: Pernambuco
+  city: Recife
+  latitude: -8.0584933
+  longitude: -34.8848193
+meetup_group: owasp-recife-meetup-group
+name: OWASP Recife
+repositories:
+  - name: www-chapter-recife
+    url: https://github.com/OWASP/www-chapter-recife
+    description: OWASP Foundation Web Repository
+tags:
+  - agenda-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-recife
